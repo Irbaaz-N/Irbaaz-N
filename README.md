@@ -25,7 +25,7 @@ B.Tech CSE (AI specialization) graduate, Jamia Hamdard University, 2026. Based i
 | Critic | Reviews and sends revisions back |
 
 - **Stack:** LangGraph, LLaMA 3.1 (via Groq), Tavily, BeautifulSoup, Streamlit
-- **Live demo:** [MARS on Streamlit](https://YOUR-STREAMLIT-LINK)
+- **Live demo:** [MARS on Streamlit]([https://YOUR-STREAMLIT-LINK](https://irbaaz-multi-agent-ai-research-system.streamlit.app/))
 - **Code:** [MARS repo](https://github.com/Irbaaz-N/MARS)
 
 ## Other Projects
