@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Irbaaz%20Noor&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20LLMs%20%26%20Multi-Agent%20Systems&descAlignY=60&descSize=16" width="100%" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2563eb&height=160&section=header&text=Irbaaz%20Noor&fontSize=42&fontColor=ffffff" width="100%" />
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=520&lines=I+build+multi-agent+LLM+systems;LangGraph+%7C+RAG+%7C+Agents;LLM+Post-Training+at+Ethara+AI" alt="Typing SVG" /></a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-irbaaz--noor-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/irbaaz-noor)
